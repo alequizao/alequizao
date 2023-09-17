@@ -1,6 +1,5 @@
 # Perfil de Alequizão - Analista e Desenvolvedor de Sistemas
 
-![Foto de perfil]([link_para_sua_foto_de_perfil.jpg](https://avatars.githubusercontent.com/u/64675617))
 
 Olá, sou Alex Junior, mas você pode me chamar de Alequizão. Sou um Analista e Desenvolvedor de Sistemas com base em Maceió, Alagoas.
 
