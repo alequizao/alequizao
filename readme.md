@@ -5,7 +5,7 @@ Olá, sou Alex Junior, mas você pode me chamar de Alequizão. Sou um Analista e
 
 ## Sobre Mim
 
-Sou apaixonado por resolver problemas complexos por meio da programação. Minha jornada na área de desenvolvimento de software começou há anos e desde então tenho me dedicado a aprender e crescer como profissional.
+Sou apaixonado por resolver problemas complexos por meio da programação. Minha jornada na área de desenvolvimento de software começou há 8 anos e desde então tenho me dedicado a aprender e crescer como profissional.
 
 ## Experiência
 
