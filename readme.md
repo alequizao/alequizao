@@ -17,6 +17,11 @@ Sou apaixonado por resolver problemas complexos por meio da programação. Minha
 - Trabalhei em projetos web, desenvolvendo tanto o frontend quanto o backend das aplicações.
 - Utilizei diversas tecnologias, incluindo HTML, CSS, JavaScript, Python e SQL.
 
+### Empresa Procar Monitoramento - Desenvolvedor Full Stack
+- Trabalhei em projetos web, desenvolvendo tanto o frontend quanto o backend das aplicações da plataforma de rastreamento.
+- Utilizei diversas tecnologias, incluindo HTML, CSS, JavaScript, Python, vue e SQL.
+- Tenho ampla experiencia em Traccar
+
 ## Habilidades
 
 - Linguagens de Programação: JavaScript, Python, Java, C#
