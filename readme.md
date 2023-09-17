@@ -25,3 +25,8 @@ Sou apaixonado por resolver problemas complexos por meio da programação. Minha
 - Banco de Dados: MySQL, PostgreSQL, MongoDB
 - Desenvolvimento Web: HTML, CSS, Bootstrap
 - Metodologias: Agile, Scrum
+
+Você pode me encontrar nas seguintes redes sociais:
+- [whatsapp](https://wa.me/5582988717072)
+- [instagram](https://instagram.com/alequizao)
+- Email: seuemail@email.com
