@@ -10,11 +10,11 @@ Sou apaixonado por resolver problemas complexos por meio da programação. Minha
 
 ## Experiência
 
-### Empresa XYZ - Analista de Sistemas
+### Empresa Miller Sistemas - Analista de Sistemas
 - Trabalhei na equipe de desenvolvimento de software, onde participei no desenvolvimento de soluções customizadas para clientes.
 - Fui responsável por análise de requisitos, design de sistemas e implementação de código eficiente e escalável.
 
-### Empresa ABC - Desenvolvedor Full Stack
+### Empresa OG1 - Desenvolvedor Full Stack
 - Trabalhei em projetos web, desenvolvendo tanto o frontend quanto o backend das aplicações.
 - Utilizei diversas tecnologias, incluindo HTML, CSS, JavaScript, Python e SQL.
 
