@@ -31,3 +31,4 @@ Você pode me encontrar nas seguintes redes sociais:
 - [whatsapp](https://wa.me/5582988717072)
 - [instagram](https://instagram.com/alequizao)
 - Email: alexjuniorcalado@gmail.com
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
