@@ -3,7 +3,7 @@
 💻 Desenvolvedor focado em backend, performance e soluções reais de produção  
 📡 Referência no Brasil em modificações e customizações do Traccar  
 🖨️ Entusiasta avançado em impressão 3D (mini farm Bambu Lab A1)  
-🚀 Criador do projeto social e viral “Te Vi no Buzão”  
+🚀 Criador do projeto social e viral “Te Vi no Buzão”  - *@tevinobuzao**
 
 ---
 
@@ -64,7 +64,7 @@ https://www.google.com/maps/place/CASA+DO+ALEQUIZ%C3%83O/@-9.5663006,-35.7867626
 
 ### 🚌 Transporte Público — Cobrador de Ônibus (2015 a 2017)
 - Experiência direta com usuários de transporte coletivo
-- Foi nesse período que surgiu a ideia do projeto **Te Vi no Buzão**
+- Foi nesse período que surgiu a ideia do projeto **Te Vi no Buzão** - **@tevinobuzao*
 
 ### 🏢 Miller Sistemas — Analista de Sistemas
 - Desenvolvimento de soluções customizadas
