@@ -2,20 +2,59 @@
 
 💻 Desenvolvedor focado em backend, performance e soluções reais de produção  
 📡 Referência no Brasil em modificações e customizações do Traccar  
-🖨️ Entusiasta avançado em impressão 3D (mini farm Bambu Lab A1)  
-🚀 Criador do projeto social e viral “Te Vi no Buzão”  - *@tevinobuzao**
+🖨️ Especialista em impressão 3D (mini farm Bambu Lab A1)  
+🚀 Criador do projeto social “Te Vi no Buzão”  
+🌐 Fundador de plataformas web funcionais em produção  
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou Analista e Desenvolvedor de Sistemas com mais de 10 anos de experiência em tecnologia, atuando com desenvolvimento backend, sistemas escaláveis e rastreamento GPS.
+Sou Analista e Desenvolvedor de Sistemas com mais de 10 anos de experiência, focado em backend, sistemas escaláveis e soluções práticas.
 
-Sou reconhecido no Brasil por modificações avançadas no Traccar, criando soluções utilizadas em produção com foco em performance e confiabilidade.
+Sou reconhecido no Brasil por modificações avançadas no Traccar, criando sistemas robustos de rastreamento GPS utilizados em produção.
 
-Além da tecnologia, também sou criador e administrador do projeto **“Te Vi no Buzão” (@tevinobuzao)** — uma iniciativa que conecta pessoas que utilizam transporte público, transformando interações simples em conexões reais.
+Também sou criador do projeto **“Te Vi no Buzão” (@tevinobuzao)**, que conecta pessoas através do transporte público e já impactou milhares de usuários.
+
+Além disso, desenvolvo plataformas próprias com foco em utilidade real, automação e acesso a dados em tempo real.
 
 📅 Nascimento: 16 de julho de 1991  
+
+---
+
+## 🌐 Plataforma e Projetos
+
+🔗 https://alequizao.com  
+
+### 🚀 Portal de Empregos  
+https://vagas.alequizao.com  
+- Agregador de vagas com busca inteligente  
+- Filtros por área (dev, marketing, vendas, etc)  
+- Interface rápida e responsiva  
+
+---
+
+### ⛽ Consulta de Combustível  
+https://alequizao.com/gasolina/  
+- Comparação de preços em tempo real  
+- Economia por região  
+- Atualização constante de dados  
+
+---
+
+### 🚗 Consulta Tabela FIPE  
+https://alequizao.com/fipe/  
+- Consulta por marca/modelo  
+- Histórico de preços  
+- Dados oficiais integrados  
+
+---
+
+### 📺 IPTV Web Player  
+https://alequizao.com/iptv/  
+- Player web completo  
+- Lista de canais com filtros  
+- Interface estilo streaming  
 
 ---
 
@@ -34,88 +73,79 @@ https://www.google.com/maps/place/CASA+DO+ALEQUIZ%C3%83O/@-9.5663006,-35.7867626
 
 ## ⚙️ Stack Principal
 
-- Linguagens: JavaScript, Python, Java, C#
-- Backend: Node.js, Django
-- Frontend: React, Vue.js
-- Banco de Dados: PostgreSQL, MySQL, MongoDB
-- Web: HTML, CSS, Bootstrap
-- Outros: APIs REST, WebSockets, rastreamento GPS, Traccar
+- Linguagens: JavaScript, Python, Java, C#  
+- Backend: Node.js, Django  
+- Frontend: React, Vue.js  
+- Banco de Dados: PostgreSQL, MySQL, MongoDB  
+- Outros: APIs REST, WebSockets, scraping, automação, Traccar  
 
 ---
 
 ## 🚀 Especialidades
 
-- Modificações avançadas no Traccar
-- Sistemas de rastreamento GPS
-- Backend de alta performance
-- Arquitetura de sistemas escaláveis
-- Integração de APIs
-- Otimização de banco de dados
-- Automação de processos
-- Impressão 3D FDM (PLA, PETG, TPU)
+- Modificações avançadas no Traccar  
+- Sistemas de rastreamento GPS  
+- Backend de alta performance  
+- Arquitetura de sistemas escaláveis  
+- Integração de APIs  
+- Automação e scraping  
+- Impressão 3D FDM  
 
 ---
 
 ## 💼 Experiência
 
-### 🏢 DETRAN — 2006 a 2015
-- Atuação em ambiente institucional
-- Experiência com processos administrativos e sistemas internos
+### 🏢 DETRAN — 2006 a 2015  
+- Experiência institucional e sistemas internos  
 
-### 🚌 Transporte Público — Cobrador de Ônibus (2015 a 2017)
-- Experiência direta com usuários de transporte coletivo
-- Foi nesse período que surgiu a ideia do projeto **Te Vi no Buzão** - **@tevinobuzao*
+### 🚌 Cobrador de Ônibus — 2015 a 2017  
+- Origem da ideia do Te Vi no Buzão  
 
-### 🏢 Miller Sistemas — Analista de Sistemas
-- Desenvolvimento de soluções customizadas
-- Levantamento de requisitos
-- Arquitetura e implementação de sistemas escaláveis
+### 🏢 Miller Sistemas — Analista de Sistemas  
+- Desenvolvimento e arquitetura de sistemas  
 
-### 🏢 OG1 — Desenvolvedor Full Stack
-- Desenvolvimento de aplicações web completas
-- Frontend + Backend com JavaScript, Python e SQL
+### 🏢 OG1 — Desenvolvedor Full Stack  
+- Desenvolvimento web completo  
 
-### 🏢 Procar Monitoramento — Desenvolvedor Full Stack
-- Desenvolvimento de plataforma de rastreamento GPS
-- Integração com dispositivos
-- Customizações avançadas no Traccar
+### 🏢 Procar Monitoramento — Desenvolvedor Full Stack  
+- Plataforma de rastreamento GPS  
+- Forte atuação com Traccar  
 
 ---
 
-## 🧩 Projeto de Destaque: Te Vi no Buzão
+## 🧩 Te Vi no Buzão
 
-Criado em 2017, o **@tevinobuzao** nasceu a partir da vivência real no transporte público.
+Criado em 2017 a partir da vivência real no transporte público.
 
-A ideia: conectar pessoas que se viam nos ônibus mas não tinham coragem de iniciar uma conversa.
+Hoje:
 
-Hoje o projeto:
-
-- Possui mais de **94 mil seguidores**
-- Tornou-se utilidade pública
-- Ajuda a criar conexões reais entre pessoas
-- Expandiu para serviços e interações sociais
+- +94 mil seguidores  
+- Projeto de utilidade pública  
+- Conexões reais entre pessoas  
 
 📎 Matéria:  
 https://www.gazetaweb.com/noticias/maceio/ex-cobrador-faz-sucesso-unindo-casais-de-usuarios-de-onibus-em-maceio  
+
+📷 Instagram:  
+https://instagram.com/tevinobuzao  
 
 ---
 
 ## 🖨️ Impressão 3D
 
-- Mini farm com Bambu Lab A1
-- Produção contínua com foco em qualidade
-- Ajustes finos de impressão FDM
-- Materiais: PLA, PETG, TPU
+- Mini farm com Bambu Lab A1  
+- Produção contínua  
+- Ajustes avançados FDM  
 
 ---
 
 ## 📊 Áreas de atuação
 
-- Backend de alta performance
-- Sistemas distribuídos
-- Rastreamento GPS
-- Automação e integração de sistemas
-- Impressão 3D profissional
+- Backend de alta performance  
+- Sistemas distribuídos  
+- Rastreamento GPS  
+- Automação e scraping  
+- Plataformas web  
 
 ---
 
@@ -125,6 +155,7 @@ https://www.gazetaweb.com/noticias/maceio/ex-cobrador-faz-sucesso-unindo-casais-
 💬 WhatsApp: https://wa.me/5582988717072  
 📷 Instagram: https://instagram.com/alequizao  
 🐙 GitHub: https://github.com/alequizao  
+🌐 Site: https://alequizao.com  
 
 ---
 
@@ -132,8 +163,7 @@ https://www.gazetaweb.com/noticias/maceio/ex-cobrador-faz-sucesso-unindo-casais-
 
 Código bom é:
 
-- direto
-- eficiente
-- escalável
-- sem gambiarra
-- pronto para produção
+- direto  
+- eficiente  
+- escalável  
+- pronto para produção  
