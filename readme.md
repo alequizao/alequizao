@@ -2,6 +2,7 @@
 
 💻 Desenvolvedor focado em backend, performance e soluções reais de produção  
 📡 Referência no Brasil em modificações e customizações do Traccar  
+🏢 Fundador de empresa de rastreamento com +1000 clientes  
 🖨️ Especialista em impressão 3D (mini farm Bambu Lab A1)  
 🚀 Criador do projeto social “Te Vi no Buzão”  
 🌐 Fundador de plataformas web funcionais em produção  
@@ -14,9 +15,9 @@ Sou Analista e Desenvolvedor de Sistemas com mais de 10 anos de experiência, fo
 
 Sou reconhecido no Brasil por modificações avançadas no Traccar, criando sistemas robustos de rastreamento GPS utilizados em produção.
 
-Também sou criador do projeto **“Te Vi no Buzão” (@tevinobuzao)**, que conecta pessoas através do transporte público e já impactou milhares de usuários.
+Sou também fundador da empresa **Monitoramento.top**, com mais de **1000 clientes ativos no Norte e Nordeste**, atuando com soluções completas de rastreamento e monitoramento veicular.
 
-Além disso, desenvolvo plataformas próprias com foco em utilidade real, automação e acesso a dados em tempo real.
+Além disso, sou criador do projeto **“Te Vi no Buzão” (@tevinobuzao)**, que conecta pessoas através do transporte público e já impactou milhares de usuários.
 
 📅 Nascimento: 16 de julho de 1991  
 
@@ -58,6 +59,19 @@ https://alequizao.com/iptv/
 
 ---
 
+## 🏢 Empresa
+
+### 🚀 Monitoramento e Rastreamento
+🔗 https://monitoramento.top  
+
+- Plataforma de rastreamento GPS em produção  
+- Mais de **1000 clientes ativos**  
+- Atuação no Norte e Nordeste do Brasil  
+- Soluções para monitoramento veicular em tempo real  
+- Infraestrutura baseada em Traccar com customizações avançadas  
+
+---
+
 ## 📍 Localização
 
 Casa do Alequizão  
@@ -83,8 +97,8 @@ https://www.google.com/maps/place/CASA+DO+ALEQUIZ%C3%83O/@-9.5663006,-35.7867626
 
 ## 🚀 Especialidades
 
-- Modificações avançadas no Traccar  
-- Sistemas de rastreamento GPS  
+- Modificações avançadas no Traccar (referência no Brasil)  
+- Sistemas de rastreamento GPS em larga escala  
 - Backend de alta performance  
 - Arquitetura de sistemas escaláveis  
 - Integração de APIs  
@@ -99,7 +113,7 @@ https://www.google.com/maps/place/CASA+DO+ALEQUIZ%C3%83O/@-9.5663006,-35.7867626
 - Experiência institucional e sistemas internos  
 
 ### 🚌 Cobrador de Ônibus — 2015 a 2017  
-- Origem da ideia do Te Vi no Buzão  
+- Origem do projeto Te Vi no Buzão  
 
 ### 🏢 Miller Sistemas — Analista de Sistemas  
 - Desenvolvimento e arquitetura de sistemas  
