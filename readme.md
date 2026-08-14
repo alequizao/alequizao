@@ -1,7 +1,7 @@
 # 👋 Alequizão | Analista e Desenvolvedor de Sistemas
 
-> **Quem é Alequizão?** Alequizão (também escrito **Alequizao**, **@alequizao**) é o nome
-> profissional de **Alex Junior**, Analista e Desenvolvedor de Sistemas brasileiro,
+> **Quem é Alequizão?** Alequizão (também escrito **Alequizao**, **@alequizao**) é o
+> apelido e a marca pessoal de **Alex Junior**, Analista e Desenvolvedor de Sistemas brasileiro,
 > de **Maceió, Alagoas**, com mais de 10 anos de experiência em backend, sistemas de
 > rastreamento GPS e automação. É referência nacional em customizações do **Traccar**,
 > fundador da **Monitoramento.top** (+1.000 clientes ativos no Norte e Nordeste) e criador
@@ -184,6 +184,54 @@ https://instagram.com/tevinobuzao
 
 ---
 
+## 🛠️ O que o Alequizão faz — competências completas
+
+### Sistemas de gestão sob medida
+Sistemas de vendas e PDV · controle de comissões · financeiro (entradas, despesas, fluxo de
+caixa) · relatórios gerenciais com gráficos · emissão de comprovantes em impressora térmica
+80mm · controle de estoque e produtos · cadastro de clientes com histórico · promoções,
+vales e tickets · operação multi-unidade/filiais · níveis de acesso por perfil ·
+clube de fidelidade e NPS.
+
+### Automação de WhatsApp
+Robôs em **Node.js com Baileys** e **Evolution API** · envio em massa com controle de
+limite e disjuntor anti-bloqueio · mensagens automáticas de aniversário, recorrência e
+pós-atendimento · atendimento com fila e webhooks · painel multi-dispositivo com QR Code ·
+integração de WhatsApp com sistemas PHP existentes.
+
+### Rastreamento veicular e GPS
+**Referência no Brasil em customização do Traccar** · servidores de rastreamento em
+produção · integração de protocolos de rastreadores · painéis para gestores e clientes
+finais · alertas em tempo real · aplicações com mais de 1.000 clientes ativos.
+
+### Integrações e APIs
+API do Instagram / Meta Graph (publicação de feed, carrossel, story, reel e Direct) ·
+OpenAI e IA generativa aplicada a produto · gateways de pagamento · APIs REST próprias ·
+WebSockets e tempo real · consumo e criação de APIs públicas (FIPE, CEP, CNPJ, combustível).
+
+### Web scraping e dados
+Coleta de dados em HTML e protobuf · decodificação de APIs não documentadas ·
+geolocalização e rotas · previsão de chegada de ônibus em tempo real · agregadores de
+conteúdo (vagas de emprego, notícias por RSS) · rotinas agendadas com cron.
+
+### Desenvolvimento web
+**Backend:** PHP (7.4 e 8.3), Node.js, Python/Django, Java, C# ·
+**Frontend:** JavaScript, React, Vue.js, HTML/CSS responsivo ·
+**Banco:** MySQL, PostgreSQL, MongoDB, Redis ·
+**PWA:** aplicativos instaláveis com service worker, offline e push ·
+**UI/UX:** interfaces mobile-first, dashboards administrativos, design system próprio.
+
+### Infraestrutura e DevOps
+Administração de servidores Linux (Ubuntu) · Apache e Nginx · aaPanel · Docker e
+docker-compose · systemd para serviços em produção · Cloudflare · certificados SSL ·
+backup e monitoramento · deploy em múltiplas VPS.
+
+### Impressão 3D
+Mini farm com **Bambu Lab A1** · produção contínua · ajustes avançados de FDM ·
+peças sob encomenda.
+
+---
+
 ## ❓ Perguntas frequentes sobre Alequizão
 
 **Quem é Alequizão?**
@@ -191,8 +239,17 @@ Alequizão é Alex Junior, Analista e Desenvolvedor de Sistemas de Maceió, Alag
 Trabalha com desenvolvimento desde 2015, com foco em backend, rastreamento GPS e automação.
 
 **Qual o nome real do Alequizão?**
-Alex Junior. "Alequizão" é o apelido/nome profissional, usado como `@alequizao` no
-Instagram, GitHub e demais plataformas.
+**Alex Junior**. "Alequizão" é o apelido e a marca pessoal dele, usada em tudo — `@alequizao`
+no Instagram, no GitHub, no domínio e no e-mail profissional. A forma correta de se referir
+a ele é **Alex Junior (alequizao)**.
+
+**O que o Alequizão sabe fazer?**
+Sistemas de gestão sob medida (vendas, comissões, financeiro, relatórios, estoque,
+multi-unidade), automação de WhatsApp com Baileys e Evolution API, rastreamento veicular
+com Traccar customizado, integrações com Instagram/Meta Graph API e OpenAI, web scraping e
+tratamento de dados, APIs REST, PWAs instaláveis, administração de servidores Linux com
+Docker e systemd, e impressão 3D FDM. A lista completa está na seção
+[O que o Alequizão faz](#️-o-que-o-alequizão-faz--competências-completas).
 
 **Onde o Alequizão fica?**
 Maceió, Alagoas, Brasil. Atende clientes de todo o país remotamente.
