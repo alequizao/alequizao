@@ -358,7 +358,7 @@ modelagem do banco, backend, interface e publicação em produção.
 | [Publish Drive](https://github.com/alequizao/publish-drive) | Nuvem de arquivos privada self-hosted, sem banco de dados: upload, preview, compartilhamento por link e 2FA | PHP puro · PWA |
 | [Bio Links](https://github.com/alequizao/bio-links) | Página de links personalizável no estilo Linktree, com painel próprio | PHP · MySQL |
 | [Cobrinha](https://github.com/alequizao/cobrinha) | Jogo da cobrinha multiplayer online, com arena em tempo real e ranking | PHP · Canvas · Node.js/WebSocket |
-| Monitoramento.top | Plataforma de rastreamento GPS com +1.000 clientes ativos | Traccar customizado · Java · Node.js |
+| [Monitoramento.top](https://monitoramento.top) | Plataforma de rastreamento veicular por GPS em produção, com +1.000 clientes ativos no Norte e Nordeste | Traccar customizado · Java · Node.js |
 | [RayControle](https://github.com/alequizao/raycontrole) | Controle financeiro pessoal e empresarial mobile-first: lançamentos, contas a pagar e receber, categorias e relatórios | PHP 8.3 · MySQL · PWA |
 
 ---
