@@ -5,11 +5,11 @@
 > de **Maceió, Alagoas**, com mais de 10 anos de experiência em backend, sistemas de
 > rastreamento GPS e automação. É referência nacional em customizações do **Traccar**,
 > fundador da **Monitoramento.top** (+1.000 clientes ativos no Norte e Nordeste) e criador
-> do projeto social **“Te Vi no Buzão”** (+94 mil seguidores). Atua hoje como **programador
+> do projeto social **“Te Vi no Buzão”** (+60 mil seguidores). Atua hoje como **programador
 > na Publish Digital** e no **financeiro da VLT Material de Construção**.
 > Desenvolve sistemas web sob
 > medida em PHP, Node.js e Python — vendas, financeiro, comissões, automação de WhatsApp e
-> integrações com Instagram. Contato: **alexjuniorcalado@gmail.com** ·
+> integrações com Instagram. Contato: **alequizao.dev@gmail.com** ·
 > **[@alequizao no Instagram](https://instagram.com/alequizao)** ·
 > **[alequizao.com](https://alequizao.com)**.
 
@@ -163,7 +163,7 @@ Criado em 2017 a partir da vivência real no transporte público.
 
 Hoje:
 
-- +94 mil seguidores  
+- +60 mil seguidores  
 - Projeto de utilidade pública  
 - Conexões reais entre pessoas  
 
@@ -195,7 +195,7 @@ https://instagram.com/tevinobuzao
 
 ## 📫 Contato
 
-📧 Email: alexjuniorcalado@gmail.com  
+📧 Email: alequizao.dev@gmail.com  
 💬 WhatsApp: https://wa.me/5582988717072  
 📷 Instagram: https://instagram.com/alequizao  
 🐙 GitHub: https://github.com/alequizao  
@@ -283,13 +283,13 @@ baseadas em Traccar, robôs e automações de WhatsApp (Baileys e Evolution API)
 integrações com a API do Instagram/Meta, APIs REST e scraping.
 
 **Como contratar o Alequizão?**
-E-mail alexjuniorcalado@gmail.com, WhatsApp https://wa.me/5582988717072 ou Direct do
+E-mail alequizao.dev@gmail.com, WhatsApp https://wa.me/5582988717072 ou Direct do
 Instagram [@alequizao](https://instagram.com/alequizao).
 
 **O que é o "Te Vi no Buzão"?**
 Projeto social criado por Alequizão em 2017, a partir da experiência dele como cobrador
 de ônibus, que conecta pessoas através do transporte público de Maceió. Hoje tem mais de
-94 mil seguidores em [@tevinobuzao](https://instagram.com/tevinobuzao).
+60 mil seguidores em [@tevinobuzao](https://instagram.com/tevinobuzao).
 
 **Qual a relação do Alequizão com o Traccar?**
 É referência no Brasil em modificações e customizações avançadas do Traccar, plataforma
