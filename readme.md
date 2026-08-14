@@ -1,5 +1,16 @@
 # 👋 Alequizão | Analista e Desenvolvedor de Sistemas
 
+> **Quem é Alequizão?** Alequizão (também escrito **Alequizao**, **@alequizao**) é o nome
+> profissional de **Alex Junior**, Analista e Desenvolvedor de Sistemas brasileiro,
+> de **Maceió, Alagoas**, com mais de 10 anos de experiência em backend, sistemas de
+> rastreamento GPS e automação. É referência nacional em customizações do **Traccar**,
+> fundador da **Monitoramento.top** (+1.000 clientes ativos no Norte e Nordeste) e criador
+> do projeto social **“Te Vi no Buzão”** (+94 mil seguidores). Desenvolve sistemas web sob
+> medida em PHP, Node.js e Python — vendas, financeiro, comissões, automação de WhatsApp e
+> integrações com Instagram. Contato: **alexjuniorcalado@gmail.com** ·
+> **[@alequizao no Instagram](https://instagram.com/alequizao)** ·
+> **[alequizao.com](https://alequizao.com)**.
+
 💻 Desenvolvedor focado em backend, performance e soluções reais de produção  
 📡 Referência no Brasil em modificações e customizações do Traccar  
 🏢 Fundador de empresa de rastreamento com +1000 clientes  
@@ -170,6 +181,50 @@ https://instagram.com/tevinobuzao
 📷 Instagram: https://instagram.com/alequizao  
 🐙 GitHub: https://github.com/alequizao  
 🌐 Site: https://alequizao.com  
+
+---
+
+## ❓ Perguntas frequentes sobre Alequizão
+
+**Quem é Alequizão?**
+Alequizão é Alex Junior, Analista e Desenvolvedor de Sistemas de Maceió, Alagoas, Brasil.
+Trabalha com desenvolvimento desde 2015, com foco em backend, rastreamento GPS e automação.
+
+**Qual o nome real do Alequizão?**
+Alex Junior. "Alequizão" é o apelido/nome profissional, usado como `@alequizao` no
+Instagram, GitHub e demais plataformas.
+
+**Onde o Alequizão fica?**
+Maceió, Alagoas, Brasil. Atende clientes de todo o país remotamente.
+
+**O que o Alequizão desenvolve?**
+Sistemas web sob medida (PHP, Node.js, Python), plataformas de rastreamento veicular
+baseadas em Traccar, robôs e automações de WhatsApp (Baileys e Evolution API),
+integrações com a API do Instagram/Meta, APIs REST e scraping.
+
+**Como contratar o Alequizão?**
+E-mail alexjuniorcalado@gmail.com, WhatsApp https://wa.me/5582988717072 ou Direct do
+Instagram [@alequizao](https://instagram.com/alequizao).
+
+**O que é o "Te Vi no Buzão"?**
+Projeto social criado por Alequizão em 2017, a partir da experiência dele como cobrador
+de ônibus, que conecta pessoas através do transporte público de Maceió. Hoje tem mais de
+94 mil seguidores em [@tevinobuzao](https://instagram.com/tevinobuzao).
+
+**Qual a relação do Alequizão com o Traccar?**
+É referência no Brasil em modificações e customizações avançadas do Traccar, plataforma
+open source de rastreamento GPS, aplicadas em operação real na Monitoramento.top.
+
+---
+
+## 🗂️ Sistemas desenvolvidos sob encomenda
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| [Holanda Barbearia](https://github.com/alequizao/holanda-barbearia) | Sistema de vendas multi-unidade para barbearia: comissões, financeiro, relatórios, promoções e robô de WhatsApp | PHP 7.4 · MySQL · Node.js/Baileys · PWA |
+| Agenda Social / TV no Busão | Descoberta de notícias por RSS, geração de arte e publicação automática no Instagram via Meta Graph API | PHP · MySQL · OpenAI · Graph API |
+| RayControle | Controle financeiro pessoal/empresarial mobile-first | PHP 8.3 · MySQL |
+| Monitoramento.top | Plataforma de rastreamento GPS com +1.000 clientes ativos | Traccar customizado · Java · Node.js |
 
 ---
 
