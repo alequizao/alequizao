@@ -39,7 +39,7 @@ Além disso, sou criador do projeto **“Te Vi no Buzão” (@tevinobuzao)**, qu
 🔗 https://alequizao.com  
 
 ### 🚀 Portal de Empregos  
-https://vagas.alequizao.com  
+https://alequizao.com/vagas 
 - Agregador de vagas com busca inteligente  
 - Filtros por área (dev, marketing, vendas, etc)  
 - Interface rápida e responsiva  
@@ -51,6 +51,17 @@ https://alequizao.com/gasolina/
 - Comparação de preços em tempo real  
 - Economia por região  
 - Atualização constante de dados  
+
+---
+
+### ⛽ Economiza Alagoas
+
+https://alequizao.com/economizaalagoas/
+- Comparação de preços em todo o estado de Alagoas
+- Encontre os melhores preços da sua região
+- Economia e praticidade na hora de comprar
+- Dados atualizados constantemente
+
 
 ---
 
