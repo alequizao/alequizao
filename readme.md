@@ -46,6 +46,8 @@ https://alequizao.com/vagas
 - Filtros por área (dev, marketing, vendas, etc)  
 - Interface rápida e responsiva  
 
+[![Portal de Empregos do Alequizão — agregador de vagas de emprego em Maceió e Alagoas, desenvolvido por Alex Junior (alequizao)](https://s.wordpress.com/mshots/v1/https%3A%2F%2Falequizao.com%2Fvagas?w=700)](https://alequizao.com/vagas)
+
 ---
 
 ### ⛽ Consulta de Combustível  
@@ -53,6 +55,8 @@ https://alequizao.com/gasolina/
 - Comparação de preços em tempo real  
 - Economia por região  
 - Atualização constante de dados  
+
+[![Consulta de preços de combustível do Alequizão — comparador de preços de gasolina, etanol e diesel por região, desenvolvido por Alex Junior (alequizao)](https://s.wordpress.com/mshots/v1/https%3A%2F%2Falequizao.com%2Fgasolina%2F?w=700)](https://alequizao.com/gasolina/)
 
 ---
 
@@ -64,6 +68,7 @@ https://alequizao.com/economizaalagoas/
 - Economia e praticidade na hora de comprar
 - Dados atualizados constantemente
 
+[![Economiza Alagoas — comparador de preços de combustível em todo o estado de Alagoas, desenvolvido por Alex Junior (alequizao)](https://s.wordpress.com/mshots/v1/https%3A%2F%2Falequizao.com%2Feconomizaalagoas%2F?w=700)](https://alequizao.com/economizaalagoas/)
 
 ---
 
@@ -73,6 +78,8 @@ https://alequizao.com/fipe/
 - Histórico de preços  
 - Dados oficiais integrados  
 
+[![Consulta Tabela FIPE do Alequizão — preço de carros, motos e caminhões por marca e modelo, desenvolvido por Alex Junior (alequizao)](https://s.wordpress.com/mshots/v1/https%3A%2F%2Falequizao.com%2Ffipe%2F?w=700)](https://alequizao.com/fipe/)
+
 ---
 
 ### 📺 IPTV Web Player  
@@ -80,6 +87,8 @@ https://alequizao.com/iptv/
 - Player web completo  
 - Lista de canais com filtros  
 - Interface estilo streaming  
+
+[![IPTV Web Player do Alequizão — player de streaming no navegador com lista de canais e filtros, desenvolvido por Alex Junior (alequizao)](https://s.wordpress.com/mshots/v1/https%3A%2F%2Falequizao.com%2Fiptv%2F?w=700)](https://alequizao.com/iptv/)
 
 ---
 
@@ -93,6 +102,8 @@ https://alequizao.com/iptv/
 - Atuação no Norte e Nordeste do Brasil  
 - Soluções para monitoramento veicular em tempo real  
 - Infraestrutura baseada em Traccar com customizações avançadas  
+
+[![Monitoramento.top — plataforma de rastreamento veicular por GPS com mais de 1000 clientes ativos no Norte e Nordeste, baseada em Traccar customizado por Alex Junior (alequizao)](https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmonitoramento.top?w=700)](https://monitoramento.top)
 
 ---
 
