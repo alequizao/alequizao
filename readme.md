@@ -5,7 +5,9 @@
 > de **Maceió, Alagoas**, com mais de 10 anos de experiência em backend, sistemas de
 > rastreamento GPS e automação. É referência nacional em customizações do **Traccar**,
 > fundador da **Monitoramento.top** (+1.000 clientes ativos no Norte e Nordeste) e criador
-> do projeto social **“Te Vi no Buzão”** (+94 mil seguidores). Desenvolve sistemas web sob
+> do projeto social **“Te Vi no Buzão”** (+94 mil seguidores). Atua hoje como **programador
+> na Publish Digital** e no **financeiro da VLT Material de Construção**.
+> Desenvolve sistemas web sob
 > medida em PHP, Node.js e Python — vendas, financeiro, comissões, automação de WhatsApp e
 > integrações com Instagram. Contato: **alexjuniorcalado@gmail.com** ·
 > **[@alequizao no Instagram](https://instagram.com/alequizao)** ·
@@ -130,6 +132,12 @@ https://www.google.com/maps/place/CASA+DO+ALEQUIZ%C3%83O/@-9.5663006,-35.7867626
 ---
 
 ## 💼 Experiência
+
+### 🏢 Publish Digital — Programador *(atual)*  
+- Desenvolvimento de sistemas web e aplicações em produção  
+
+### 🏗️ VLT Material de Construção — Financeiro *(atual)*  
+- Gestão financeira: contas a pagar e a receber, fluxo de caixa e conciliação  
 
 ### 🏢 DETRAN — 2006 a 2015  
 - Experiência institucional e sistemas internos  
@@ -261,6 +269,10 @@ com Traccar customizado, integrações com Instagram/Meta Graph API e OpenAI, we
 tratamento de dados, APIs REST, PWAs instaláveis, administração de servidores Linux com
 Docker e systemd, e impressão 3D FDM. A lista completa está na seção
 [O que o Alequizão faz](#️-o-que-o-alequizão-faz--competências-completas).
+
+**Onde o Alequizão trabalha?**
+Atualmente é **programador na Publish Digital** e atua no **financeiro da VLT Material de
+Construção**, além de tocar a Monitoramento.top e desenvolver sistemas sob encomenda.
 
 **Onde o Alequizão fica?**
 Maceió, Alagoas, Brasil. Atende clientes de todo o país remotamente.
