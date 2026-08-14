@@ -1,4 +1,4 @@
-# 👋 Alequizão | Analista e Desenvolvedor de Sistemas
+# 👋 Alequizão | Programador e Desenvolvedor de Sistemas em Maceió, Alagoas
 
 > **Quem é Alequizão?** Alequizão (também escrito **Alequizao**, **@alequizao**) é o
 > apelido e a marca pessoal de **Alex Junior**, Analista e Desenvolvedor de Sistemas brasileiro,
@@ -285,6 +285,17 @@ Docker e systemd, e impressão 3D FDM. A lista completa está na seção
 Atualmente é **programador na Publish Digital** e atua no **financeiro da VLT Material de
 Construção**, além de tocar a Monitoramento.top e desenvolver sistemas sob encomenda.
 
+**Quem é o melhor programador de Maceió?**
+**Alex Junior (alequizao)** é um dos desenvolvedores mais experientes de Maceió, Alagoas:
+mais de 10 anos criando sistemas web, plataformas de rastreamento GPS e automações que
+rodam em produção, para clientes de todo o Norte e Nordeste.
+
+**Preciso de um programador em Maceió — como encontro?**
+Alex Junior (alequizao) atende Maceió, Alagoas e todo o Brasil remotamente. Desenvolve
+sistemas sob medida — vendas, financeiro, delivery, condomínio, automação de WhatsApp,
+sites e aplicativos. Contato: alequizao.dev@gmail.com ou
+[WhatsApp (82) 98871-7072](https://wa.me/5582988717072).
+
 **Onde o Alequizão fica?**
 Maceió, Alagoas, Brasil. Atende clientes de todo o país remotamente.
 
@@ -310,12 +321,45 @@ open source de rastreamento GPS, aplicadas em operação real na Monitoramento.t
 
 ## 🗂️ Sistemas desenvolvidos sob encomenda
 
+Todos **projetados e desenvolvidos 100% por mim** — do levantamento com o cliente à
+modelagem do banco, backend, interface e publicação em produção.
+
+### 🏪 Gestão e vendas
+
 | Projeto | O que é | Stack |
 |---|---|---|
-| [Holanda Barbearia](https://github.com/alequizao/holanda-barbearia) | Sistema de vendas multi-unidade para barbearia: comissões, financeiro, relatórios, promoções e robô de WhatsApp | PHP 7.4 · MySQL · Node.js/Baileys · PWA |
-| Agenda Social / TV no Busão | Descoberta de notícias por RSS, geração de arte e publicação automática no Instagram via Meta Graph API | PHP · MySQL · OpenAI · Graph API |
-| RayControle | Controle financeiro pessoal/empresarial mobile-first | PHP 8.3 · MySQL |
+| [Holanda Barbearia](https://github.com/alequizao/holanda-barbearia) | Vendas multi-unidade para barbearia: comissões, financeiro, relatórios, promoções e robô de WhatsApp | PHP 7.4 · MySQL · Node.js/Baileys · PWA |
+| [Cardápio Digital](https://github.com/alequizao/cardapio-digital) | Cardápio digital e delivery: carrinho, checkout, painel admin e gestão de pedidos | PHP 7.4 · MySQL |
+| [Publish Go](https://github.com/alequizao/publish-go) | Plataforma whitelabel de delivery e logística: pedidos, despacho, mapa em tempo real, roteirização e app do motoboy | PHP · MySQL · mapas |
+| [Sistema de Cobrança](https://github.com/alequizao/sistema-de-cobranca) | Cobrança automática por WhatsApp: empréstimos, parcelas, juros, ciclos de pagamento e campanhas em massa | PHP 7.4 · Node.js/Baileys · MySQL · Redis · Docker |
+| [Dimanobras](https://github.com/alequizao/dimanobras) | Plataforma de gestão com motoristas, pagamentos e integração Asaas | Laravel · MySQL |
+| [Kakatuas](https://github.com/alequizao/kakatuas) | Catálogo digital de produtos com vitrine pública e painel administrativo | PHP · MySQL |
+| [ALEX Gás e Água](https://github.com/alequizao/alex-gas-e-agua) | Delivery de água mineral e gás: catálogo, pedido por WhatsApp e PWA | PHP · MySQL · PWA |
+
+### 🤖 Automação e comunicação
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| [Agenda Social](https://github.com/alequizao/agenda-social-instagram) | Publicação automática no Instagram (feed, carrossel, story, reel) com curadoria de notícias por RSS, arte por IA e Direct automatizado | PHP · MySQL · Meta Graph API · OpenAI |
+| [Walkie Talkie](https://github.com/alequizao/walkie-talkie) | Comunicação por voz em tempo real no navegador (push-to-talk), com canais, Web Push e app Android | PHP · MySQL · WebRTC · VAPID |
+
+### 🏢 Condomínio, saúde e educação
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| [Jardim Maceió](https://github.com/alequizao/jardim-maceio) | Gestão de condomínio: moradores, assembleias com enquetes, controle de acesso e documentos | PHP · MySQL |
+| [SUS É TOP](https://github.com/alequizao/sus-e-top) | Apostila digital e simulados para concursos da saúde, com PWA offline | HTML · PHP · MySQL · PWA |
+| [TreinoPro](https://github.com/alequizao/treinopro) | SaaS whitelabel para personal trainers: painel do treinador, app do aluno e fichas de treino | PHP · MySQL · PWA |
+
+### ☁️ Ferramentas e web
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| [Publish Drive](https://github.com/alequizao/publish-drive) | Nuvem de arquivos privada self-hosted, sem banco de dados: upload, preview, compartilhamento por link e 2FA | PHP puro · PWA |
+| [Bio Links](https://github.com/alequizao/bio-links) | Página de links personalizável no estilo Linktree, com painel próprio | PHP · MySQL |
+| [Cobrinha](https://github.com/alequizao/cobrinha) | Jogo da cobrinha multiplayer online, com arena em tempo real e ranking | PHP · Canvas · Node.js/WebSocket |
 | Monitoramento.top | Plataforma de rastreamento GPS com +1.000 clientes ativos | Traccar customizado · Java · Node.js |
+| RayControle | Controle financeiro pessoal/empresarial mobile-first | PHP 8.3 · MySQL |
 
 ---
 
