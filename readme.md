@@ -42,11 +42,11 @@ Além disso, sou criador do projeto **“Te Vi no Buzão” (@tevinobuzao)**, qu
 
 ### 🚀 Portal de Empregos  
 https://alequizao.com/vagas 
-- Agregador de vagas com busca inteligente  
-- Filtros por área (dev, marketing, vendas, etc)  
-- Interface rápida e responsiva  
+- Vagas de Maceió e Alagoas coletadas automaticamente a cada 30 min  
+- Busca sem acento, filtros por categoria, salário, estágio/aprendiz e favoritos  
+- Lista renderizada no servidor (SEO com JobPosting), PWA instalável e banco MySQL  
 
-[![Portal de Empregos do Alequizão — agregador de vagas de emprego em Maceió e Alagoas, desenvolvido por Alex Junior (alequizao)](https://image.thum.io/get/width/700/https://alequizao.com/vagas)](https://alequizao.com/vagas)
+[![Portal de Empregos do Alequizão — agregador de vagas de emprego em Maceió e Alagoas, desenvolvido por Alex Junior (alequizao)](img/vagas.png)](https://alequizao.com/vagas)
 
 ---
 
@@ -56,7 +56,7 @@ https://alequizao.com/gasolina/
 - Economia por região  
 - Atualização constante de dados  
 
-[![Consulta de preços de combustível do Alequizão — comparador de preços de gasolina, etanol e diesel por região, desenvolvido por Alex Junior (alequizao)](https://image.thum.io/get/width/700/https://alequizao.com/gasolina/)](https://alequizao.com/gasolina/)
+[![Consulta de preços de combustível do Alequizão — comparador de preços de gasolina, etanol e diesel por região, desenvolvido por Alex Junior (alequizao)](img/gasolina.png)](https://alequizao.com/gasolina/)
 
 ---
 
@@ -68,7 +68,7 @@ https://alequizao.com/economizaalagoas/
 - Economia e praticidade na hora de comprar
 - Dados atualizados constantemente
 
-[![Economiza Alagoas — comparador de preços de combustível em todo o estado de Alagoas, desenvolvido por Alex Junior (alequizao)](https://image.thum.io/get/width/700/https://alequizao.com/economizaalagoas/)](https://alequizao.com/economizaalagoas/)
+[![Economiza Alagoas — comparador de preços de combustível em todo o estado de Alagoas, desenvolvido por Alex Junior (alequizao)](img/economizaalagoas.png)](https://alequizao.com/economizaalagoas/)
 
 ---
 
@@ -78,17 +78,17 @@ https://alequizao.com/fipe/
 - Histórico de preços  
 - Dados oficiais integrados  
 
-[![Consulta Tabela FIPE do Alequizão — preço de carros, motos e caminhões por marca e modelo, desenvolvido por Alex Junior (alequizao)](https://image.thum.io/get/width/700/https://alequizao.com/fipe/)](https://alequizao.com/fipe/)
+[![Consulta Tabela FIPE do Alequizão — preço de carros, motos e caminhões por marca e modelo, desenvolvido por Alex Junior (alequizao)](img/fipe.png)](https://alequizao.com/fipe/)
 
 ---
 
 ### 📺 IPTV Web Player  
 https://alequizao.com/iptv/  
-- Player web completo  
-- Lista de canais com filtros  
-- Interface estilo streaming  
+- Player HLS no navegador com qualidade adaptativa, favoritos e atalhos de teclado  
+- Só canais que realmente tocam: teste automático de rede + CORS e prova em navegador real, toda semana  
+- Categorias em português, busca instantânea e layout mobile  
 
-[![IPTV Web Player do Alequizão — player de streaming no navegador com lista de canais e filtros, desenvolvido por Alex Junior (alequizao)](https://image.thum.io/get/width/700/https://alequizao.com/iptv/)](https://alequizao.com/iptv/)
+[![IPTV Web Player do Alequizão — player de streaming no navegador com lista de canais e filtros, desenvolvido por Alex Junior (alequizao)](img/iptv.png)](https://alequizao.com/iptv/)
 
 ---
 
@@ -103,7 +103,7 @@ https://alequizao.com/iptv/
 - Soluções para monitoramento veicular em tempo real  
 - Infraestrutura baseada em Traccar com customizações avançadas  
 
-[![Monitoramento.top — plataforma de rastreamento veicular por GPS com mais de 1000 clientes ativos no Norte e Nordeste, baseada em Traccar customizado por Alex Junior (alequizao)](https://image.thum.io/get/width/700/https://monitoramento.top)](https://monitoramento.top)
+[![Monitoramento.top — plataforma de rastreamento veicular por GPS com mais de 1000 clientes ativos no Norte e Nordeste, baseada em Traccar customizado por Alex Junior (alequizao)](img/monitoramento.png)](https://monitoramento.top)
 
 ---
 
@@ -371,6 +371,7 @@ modelagem do banco, backend, interface e publicação em produção.
 | [CalcTape Web](https://github.com/alequizao/calctape-web) | Calculadora de fita com histórico, memória, impostos configuráveis e compartilhamento | JavaScript · PHP 8.3 · MySQL · PWA |
 | [Alequizão Filmes](https://github.com/alequizao/alequizao-filmes) | Catálogo de addons Stremio com motor de torrent próprio e reprodução em HLS | PHP 8.3 · Node.js/WebTorrent · ffmpeg |
 | [Troca de Arquivos](https://github.com/alequizao/troca-arquivos) | Nuvem estilo Drive: upload, pastas, preview e compartilhamento por link | PHP 8.3 |
+| [Vagas Alequizão](https://github.com/alequizao/vagas-alequizao) | Portal de vagas de emprego de Maceió/Alagoas: coleta automática, lista renderizada no servidor, filtros, favoritos, PWA e banco MySQL | PHP 8.3 · MySQL · PWA · cron |
 | [Menu de Projetos](https://github.com/alequizao/alequizao-menu) | Índice automático dos projetos do alequizao.com com miniaturas geradas por Puppeteer | PHP 8.3 · Node.js/Puppeteer |
 | [Nubank Clone](https://github.com/alequizao/nubank-clone) | Clone da interface do Nubank como PWA de tela cheia, com login, extrato e operações simuladas | React Native/Expo · PHP 8.3 · MySQL |
 
