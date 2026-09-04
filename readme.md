@@ -321,6 +321,8 @@ open source de rastreamento GPS, aplicadas em operação real na Monitoramento.t
 
 ## 🗂️ Sistemas desenvolvidos sob encomenda
 
+<!-- atualizado em 2026-09-04: 27 projetos -->
+
 Todos **projetados e desenvolvidos 100% por mim** — do levantamento com o cliente à
 modelagem do banco, backend, interface e publicação em produção.
 
@@ -342,6 +344,7 @@ modelagem do banco, backend, interface e publicação em produção.
 |---|---|---|
 | [Agenda Social](https://github.com/alequizao/agenda-social-instagram) | Publicação automática no Instagram (feed, carrossel, story, reel) com curadoria de notícias por RSS, arte por IA e Direct automatizado | PHP · MySQL · Meta Graph API · OpenAI |
 | [Walkie Talkie](https://github.com/alequizao/walkie-talkie) | Comunicação por voz em tempo real no navegador (push-to-talk), com canais, Web Push e app Android | PHP · MySQL · WebRTC · VAPID |
+| [Bot WhatsApp Traccar](https://github.com/alequizao/bot-whatsapp-traccar) | Bot de WhatsApp integrado ao Traccar: posição do veículo, alertas e comandos por mensagem | Node.js/Baileys · Traccar API |
 
 ### 🏢 Condomínio, saúde e educação
 
@@ -350,6 +353,8 @@ modelagem do banco, backend, interface e publicação em produção.
 | [Jardim Maceió](https://github.com/alequizao/jardim-maceio) | Gestão de condomínio: moradores, assembleias com enquetes, controle de acesso e documentos | PHP · MySQL |
 | [SUS É TOP](https://github.com/alequizao/sus-e-top) | Apostila digital e simulados para concursos da saúde, com PWA offline | HTML · PHP · MySQL · PWA |
 | [TreinoPro](https://github.com/alequizao/treinopro) | SaaS whitelabel para personal trainers: painel do treinador, app do aluno e fichas de treino | PHP · MySQL · PWA |
+| [Jeovana Nutri](https://github.com/alequizao/jeovana-nutri) | PWA de estudos de Dietética: apostilas, cartões com repetição espaçada, simulados, tabela TACO com cadastro de alimentos, DRIs e módulo de pacientes com plano alimentar | JavaScript · PHP 8.3 · MySQL · PWA |
+| [Garmin Connect PWA](https://github.com/alequizao/garmin-connect-pwa) | App de atividades físicas: gravação por GPS, frequência cardíaca via Bluetooth, saúde diária, medalhas e sincronização com Garmin e Strava | JavaScript · PHP 8.3 · MySQL · Python · PWA |
 
 ### ☁️ Ferramentas e web
 
@@ -360,6 +365,14 @@ modelagem do banco, backend, interface e publicação em produção.
 | [Cobrinha](https://github.com/alequizao/cobrinha) | Jogo da cobrinha multiplayer online, com arena em tempo real e ranking | PHP · Canvas · Node.js/WebSocket |
 | [Monitoramento.top](https://monitoramento.top) | Plataforma de rastreamento veicular por GPS em produção, com +1.000 clientes ativos no Norte e Nordeste | Traccar customizado · Java · Node.js |
 | [RayControle](https://github.com/alequizao/raycontrole) | Controle financeiro pessoal e empresarial mobile-first: lançamentos, contas a pagar e receber, categorias e relatórios | PHP 8.3 · MySQL · PWA |
+| [Plataforma de Rifa](https://github.com/alequizao/plataforma-de-rifa) | Rifas e sorteios online: venda de cotas por Pix, painel do organizador e sorteio automático | Laravel · PHP · MySQL |
+| [Sentinela Monitor](https://github.com/alequizao/sentinela-monitor) | Monitor de uptime do Traccar com painel de histórico, alertas e verificação por minuto | PHP · MySQL · cron |
+| [Mapeamento Wi-Fi](https://github.com/alequizao/mapeamento-wifi) | Site survey de Wi-Fi: mapa de calor sobre a planta, análise de cobertura, sugestão de equipamentos e orçamento em PDF | PHP 8.3 · MySQL · Canvas · PWA |
+| [CalcTape Web](https://github.com/alequizao/calctape-web) | Calculadora de fita com histórico, memória, impostos configuráveis e compartilhamento | JavaScript · PHP 8.3 · MySQL · PWA |
+| [Alequizão Filmes](https://github.com/alequizao/alequizao-filmes) | Catálogo de addons Stremio com motor de torrent próprio e reprodução em HLS | PHP 8.3 · Node.js/WebTorrent · ffmpeg |
+| [Troca de Arquivos](https://github.com/alequizao/troca-arquivos) | Nuvem estilo Drive: upload, pastas, preview e compartilhamento por link | PHP 8.3 |
+| [Menu de Projetos](https://github.com/alequizao/alequizao-menu) | Índice automático dos projetos do alequizao.com com miniaturas geradas por Puppeteer | PHP 8.3 · Node.js/Puppeteer |
+| [Nubank Clone](https://github.com/alequizao/nubank-clone) | Clone da interface do Nubank como PWA de tela cheia, com login, extrato e operações simuladas | React Native/Expo · PHP 8.3 · MySQL |
 
 ---
 
