@@ -372,6 +372,7 @@ modelagem do banco, backend, interface e publicação em produção.
 | [Alequizão Filmes](https://github.com/alequizao/alequizao-filmes) | Catálogo de addons Stremio com motor de torrent próprio e reprodução em HLS | PHP 8.3 · Node.js/WebTorrent · ffmpeg |
 | [Troca de Arquivos](https://github.com/alequizao/troca-arquivos) | Nuvem estilo Drive: upload, pastas, preview e compartilhamento por link | PHP 8.3 |
 | [Vagas Alequizão](https://github.com/alequizao/vagas-alequizao) | Portal de vagas de emprego de Maceió/Alagoas: coleta automática, lista renderizada no servidor, filtros, favoritos, PWA e banco MySQL | PHP 8.3 · MySQL · PWA · cron |
+| [IPTV do Alequizão](https://github.com/alequizao/iptv-alequizao) | Player web de TV aberta brasileira com HLS.js: lista de canais testada automaticamente (rede, CORS e navegador real), categorias em português, favoritos e PWA-like mobile | PHP 8.3 · HLS.js · Node.js/Puppeteer · cron |
 | [Menu de Projetos](https://github.com/alequizao/alequizao-menu) | Índice automático dos projetos do alequizao.com com miniaturas geradas por Puppeteer | PHP 8.3 · Node.js/Puppeteer |
 | [Nubank Clone](https://github.com/alequizao/nubank-clone) | Clone da interface do Nubank como PWA de tela cheia, com login, extrato e operações simuladas | React Native/Expo · PHP 8.3 · MySQL |
 
