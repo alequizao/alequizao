@@ -82,6 +82,16 @@ https://alequizao.com/fipe/
 
 ---
 
+### 🎲 Ludo Online  
+https://alequizao.com/ludo/  
+- Ludo estilo Ludo Star no navegador: robôs, mesmo celular ou **sala online com link de convite** (prévia rica no WhatsApp)  
+- Temporizador por jogada, reconexão automática na mesma partida, ranking e histórico por conta  
+- PWA em tela cheia com atualização forçada; sala fixa dos amigos em `?sala=alequizao`  
+
+[![Ludo Online do Alequizão — jogo de Ludo multiplayer no navegador com salas, convite por WhatsApp e ranking, desenvolvido por Alex Junior (alequizao)](img/ludo.jpg)](https://alequizao.com/ludo/?sala=alequizao)
+
+---
+
 ### 📺 IPTV Web Player  
 https://alequizao.com/iptv/  
 - Player HLS no navegador com qualidade adaptativa, favoritos e atalhos de teclado  
@@ -362,6 +372,7 @@ modelagem do banco, backend, interface e publicação em produção.
 |---|---|---|
 | [Publish Drive](https://github.com/alequizao/publish-drive) | Nuvem de arquivos privada self-hosted, sem banco de dados: upload, preview, compartilhamento por link e 2FA | PHP puro · PWA |
 | [Bio Links](https://github.com/alequizao/bio-links) | Página de links personalizável no estilo Linktree, com painel próprio | PHP · MySQL |
+| [Ludo Online](https://github.com/alequizao/ludo-alequizao) | Ludo estilo Ludo Star: robôs, salas online com convite por WhatsApp, reconexão automática, ranking e PWA em tela cheia | JavaScript · PHP 8.3 · MySQL · PWA |
 | [Cobrinha](https://github.com/alequizao/cobrinha) | Jogo da cobrinha multiplayer online, com arena em tempo real e ranking | PHP · Canvas · Node.js/WebSocket |
 | [Monitoramento.top](https://monitoramento.top) | Plataforma de rastreamento veicular por GPS em produção, com +1.000 clientes ativos no Norte e Nordeste | Traccar customizado · Java · Node.js |
 | [RayControle](https://github.com/alequizao/raycontrole) | Controle financeiro pessoal e empresarial mobile-first: lançamentos, contas a pagar e receber, categorias e relatórios | PHP 8.3 · MySQL · PWA |
