@@ -19,6 +19,7 @@
 🖨️ Especialista em impressão 3D (mini farm Bambu Lab A1)  
 🚀 Criador do projeto social “Te Vi no Buzão”  
 🌐 Fundador de plataformas web funcionais em produção  
+💬 Criador do **ALEQUIZÃO MULT360**, plataforma open source de atendimento WhatsApp multiusuário  
 
 ---
 
@@ -39,6 +40,16 @@ Além disso, sou criador do projeto **“Te Vi no Buzão” (@tevinobuzao)**, qu
 ## 🌐 Plataforma e Projetos
 
 🔗 https://alequizao.com  
+
+### 💬 ALEQUIZÃO MULT360 — Atendimento WhatsApp multiusuário  
+https://github.com/alequizao/alequizao-mult360 · demo: https://zap.alequizao.com  
+- Vários atendentes no mesmo número de WhatsApp, filas, chatbot, campanhas em massa, Kanban, chat interno, IA e API  
+- **Respostas automáticas por palavra-chave sem fila**, suporte ao novo identificador LID do WhatsApp, contatos com nome e foto automáticos  
+- Sessão que não cai, login por seleção de usuário, PWA instalável — base Whaticket SaaS + Baileys, Node.js, React e PostgreSQL (código aberto)  
+
+[![ALEQUIZÃO MULT360 — plataforma de atendimento WhatsApp multiusuário com chatbot, respostas automáticas e campanhas, desenvolvida por Alex Junior (alequizao)](img/mult360.png)](https://github.com/alequizao/alequizao-mult360)
+
+---
 
 ### 🚀 Portal de Empregos  
 https://alequizao.com/vagas 
@@ -352,6 +363,7 @@ modelagem do banco, backend, interface e publicação em produção.
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| [ALEQUIZÃO MULT360](https://github.com/alequizao/alequizao-mult360) | Plataforma de atendimento WhatsApp multiusuário (CRM): filas, chatbot, respostas automáticas sem fila, campanhas, Kanban, chat interno, IA e API — código aberto | Node.js · TypeScript · React · PostgreSQL · Redis · Baileys · PWA |
 | [Agenda Social](https://github.com/alequizao/agenda-social-instagram) | Publicação automática no Instagram (feed, carrossel, story, reel) com curadoria de notícias por RSS, arte por IA e Direct automatizado | PHP · MySQL · Meta Graph API · OpenAI |
 | [Walkie Talkie](https://github.com/alequizao/walkie-talkie) | Comunicação por voz em tempo real no navegador (push-to-talk), com canais, Web Push e app Android | PHP · MySQL · WebRTC · VAPID |
 | [Bot WhatsApp Traccar](https://github.com/alequizao/bot-whatsapp-traccar) | Bot de WhatsApp integrado ao Traccar: posição do veículo, alertas e comandos por mensagem | Node.js/Baileys · Traccar API |
