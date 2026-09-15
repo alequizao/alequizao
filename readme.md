@@ -364,6 +364,7 @@ modelagem do banco, backend, interface e publicação em produção.
 | Projeto | O que é | Stack |
 |---|---|---|
 | [ALEQUIZÃO MULT360](https://github.com/alequizao/alequizao-mult360) | Plataforma de atendimento WhatsApp multiusuário (CRM): filas, chatbot, respostas automáticas sem fila, campanhas, Kanban, chat interno, IA e API — código aberto | Node.js · TypeScript · React · PostgreSQL · Redis · Baileys · PWA |
+| [Lembretes](https://github.com/alequizao/lembretes-alequizao) | Lembretes automáticos por WhatsApp, Direct e e-mail: repetição, anexos, variáveis e **alerta automático de chuva** com cartão da previsão gerado na hora | PHP · MySQL · Evolution API · Meta Graph API · SMTP · GD · PWA |
 | [Agenda Social](https://github.com/alequizao/agenda-social-instagram) | Publicação automática no Instagram (feed, carrossel, story, reel) com curadoria de notícias por RSS, arte por IA e Direct automatizado | PHP · MySQL · Meta Graph API · OpenAI |
 | [Walkie Talkie](https://github.com/alequizao/walkie-talkie) | Comunicação por voz em tempo real no navegador (push-to-talk), com canais, Web Push e app Android | PHP · MySQL · WebRTC · VAPID |
 | [Bot WhatsApp Traccar](https://github.com/alequizao/bot-whatsapp-traccar) | Bot de WhatsApp integrado ao Traccar: posição do veículo, alertas e comandos por mensagem | Node.js/Baileys · Traccar API |
