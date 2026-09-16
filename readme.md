@@ -41,6 +41,16 @@ Além disso, sou criador do projeto **“Te Vi no Buzão” (@tevinobuzao)**, qu
 
 🔗 https://alequizao.com  
 
+### ⌚ Garmin Connect PWA — painel de saúde, rastreamento ao vivo e Walkie-Talkie para relógios Garmin  
+https://github.com/alequizao/garmin-connect-pwa · demo: https://alequizao.com/garmin  
+- Sincroniza o **Garmin Connect** (atividades com GPS, sono, HRV, Body Battery, estresse) e gera **relatórios que o relógio não mostra**: forma × fadiga, risco de lesão (ACWR), desacoplamento cardíaco, melhores esforços reais e correlações  
+- **Apps Connect IQ gerados sob medida** para mais de 160 modelos: Rastreador (bateria, FC e GPS ao vivo no **Traccar**) e **Walkie-Talkie Alequizão** (canais, mensagens rápidas, chamar atenção, SOS com localização e notificações no relógio)  
+- Visual estilo app oficial, PWA com tempo real, Strava, redefinição de senha por e-mail — PHP, MySQL, JavaScript, Python, Node.js e Monkey C (código aberto, MIT)  
+
+[![Garmin Connect PWA — painel de saúde, relatórios de corrida, rastreamento ao vivo no Traccar e Walkie-Talkie para relógios Garmin, desenvolvido por Alex Junior (alequizao)](img/garmin.png)](https://github.com/alequizao/garmin-connect-pwa)
+
+---
+
 ### 💬 ALEQUIZÃO MULT360 — Atendimento WhatsApp multiusuário  
 https://github.com/alequizao/alequizao-mult360 · demo: https://zap.alequizao.com  
 - Vários atendentes no mesmo número de WhatsApp, filas, chatbot, campanhas em massa, Kanban, chat interno, IA e API  
