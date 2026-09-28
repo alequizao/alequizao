@@ -41,6 +41,16 @@ Além disso, sou criador do projeto **“Te Vi no Buzão” (@tevinobuzao)**, qu
 
 🔗 https://alequizao.com  
 
+### 🗳️ Colinha · Alequizão — colinha eleitoral 2026 com simulador de urna  
+https://alequizao.com/colinha/ · [código](https://github.com/alequizao/colinha-alequizao)  
+- Monte a cola para as **Eleições 2026**: os 6 votos na ordem da urna, com os 20 mil candidatos do TSE dos 27 estados, busca por número ou nome e ordem A-Z rotativa (sem destacar ninguém)  
+- Perfil completo do candidato (vice, plano de governo, redes, histórico eleitoral e bens), **simulador de urna** com as teclas reais, impressão em 2 vias com fotos e "passar cola" por link e WhatsApp  
+- Sem cadastro, a colinha fica só no aparelho — PHP, MySQL, JavaScript puro e PWA offline (código aberto, MIT)  
+
+[![Colinha Alequizão — colinha eleitoral 2026 com dados do TSE e simulador de urna, desenvolvido por Alex Junior (alequizao)](img/colinha.png)](https://alequizao.com/colinha/)
+
+---
+
 ### 🚆 Surf nos Trilhos — jogo de corrida infinita 3D no navegador  
 https://alequizao.com/surf/ · [código](https://github.com/alequizao/surf-nos-trilhos)  
 - Endless runner 3D estilo Subway Surfers, grátis e sem instalar: corra pelos trilhos de uma Maceió estilizada, desvie dos trens, pegue moedas e fuja do vigia  
@@ -405,6 +415,7 @@ modelagem do banco, backend, interface e publicação em produção.
 |---|---|---|
 | [Publish Drive](https://github.com/alequizao/publish-drive) | Nuvem de arquivos privada self-hosted, sem banco de dados: upload, preview, compartilhamento por link e 2FA | PHP puro · PWA |
 | [Bio Links](https://github.com/alequizao/bio-links) | Página de links personalizável no estilo Linktree, com painel próprio | PHP · MySQL |
+| [Colinha · Alequizão](https://github.com/alequizao/colinha-alequizao) | Colinha eleitoral 2026: candidatos do TSE, perfil com bens e histórico, simulador de urna, impressão com fotos e PWA offline | PHP · MySQL · JavaScript · PWA |
 | [Surf nos Trilhos](https://github.com/alequizao/surf-nos-trilhos) | Corrida infinita 3D estilo Subway Surfers no navegador: trens, poderes, loja, missões, sombras e reflexos realistas, PWA offline | JavaScript · Three.js · WebGL · PWA |
 | [Ludo Online](https://github.com/alequizao/ludo-alequizao) | Ludo estilo Ludo Star: robôs, salas online com convite por WhatsApp, reconexão automática, ranking e PWA em tela cheia | JavaScript · PHP 8.3 · MySQL · PWA |
 | [Cobrinha](https://github.com/alequizao/cobrinha) | Jogo da cobrinha multiplayer online, com arena em tempo real e ranking | PHP · Canvas · Node.js/WebSocket |
