@@ -41,6 +41,16 @@ Além disso, sou criador do projeto **“Te Vi no Buzão” (@tevinobuzao)**, qu
 
 🔗 https://alequizao.com  
 
+### 🛰️ Traccar Alequizão — Traccar 6.16.0 personalizado, em produção no Monitoramento.top  
+https://monitoramento.top · [código](https://github.com/alequizao/traccar-alequizao)  
+- O **Traccar oficial e completo** (servidor e web 6.16.0) com uma camada enxuta de personalizações, pronta para acompanhar cada versão nova sem perder nada  
+- **Bloqueio e desbloqueio** direto na lista de veículos (cadeado verde/vermelho, `engineStop`/`engineResume`), botão **Suporte via WhatsApp**, identidade visual própria e dados do desenvolvedor no app  
+- **Central de Comandos** com envio, histórico e fila dos rastreadores, além de scripts de atualização — React 19, MUI e MapLibre (código aberto, Apache 2.0)  
+
+[![Traccar Alequizão — Traccar 6.16.0 personalizado com bloqueio e desbloqueio de veículos, suporte via WhatsApp e Central de Comandos, desenvolvido por Alex Junior (alequizao)](img/traccar.png)](https://github.com/alequizao/traccar-alequizao)
+
+---
+
 ### 🗳️ Colinha · Alequizão — colinha eleitoral 2026 com simulador de urna  
 https://alequizao.com/colinha/ · [código](https://github.com/alequizao/colinha-alequizao)  
 - Monte a cola para as **Eleições 2026**: os 6 votos na ordem da urna, com os 20 mil candidatos do TSE dos 27 estados, busca por número ou nome e ordem A-Z rotativa (sem destacar ninguém)  
@@ -397,6 +407,7 @@ modelagem do banco, backend, interface e publicação em produção.
 | [Lembretes](https://github.com/alequizao/lembretes-alequizao) | Lembretes automáticos por WhatsApp, Direct e e-mail: repetição, anexos, variáveis e **alerta automático de chuva** com cartão da previsão gerado na hora | PHP · MySQL · Evolution API · Meta Graph API · SMTP · GD · PWA |
 | [Agenda Social](https://github.com/alequizao/agenda-social-instagram) | Publicação automática no Instagram (feed, carrossel, story, reel) com curadoria de notícias por RSS, arte por IA e Direct automatizado | PHP · MySQL · Meta Graph API · OpenAI |
 | [Walkie Talkie](https://github.com/alequizao/walkie-talkie) | Comunicação por voz em tempo real no navegador (push-to-talk), com canais, Web Push e app Android | PHP · MySQL · WebRTC · VAPID |
+| [Traccar Alequizão](https://github.com/alequizao/traccar-alequizao) | Traccar 6.16.0 personalizado do Monitoramento.top: bloqueio/desbloqueio na lista, suporte WhatsApp, Central de Comandos e scripts de atualização | React · MUI · MapLibre · Java (Traccar) |
 | [Bot WhatsApp Traccar](https://github.com/alequizao/bot-whatsapp-traccar) | Bot de WhatsApp integrado ao Traccar: posição do veículo, alertas e comandos por mensagem | Node.js/Baileys · Traccar API |
 
 ### 🏢 Condomínio, saúde e educação
