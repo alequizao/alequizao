@@ -64,9 +64,18 @@ https://alequizao.com/colinha/ · [código](https://github.com/alequizao/colinha
 ### 🇧🇷 Lula nos Trilhos — paródia em jogo de corrida infinita 3D  
 https://alequizao.com/lula/ · [código](https://github.com/alequizao/lula-nos-trilhos)  
 - Paródia bem-humorada do endless runner: o Lula de terno, gravata vinho e faixa presidencial corre pelos trilhos e foge do segurança  
-- Poderes (ímã, jatinho, tênis mola, Picanha 2x), loja com 5 visuais do Lula, missões e PWA offline — JavaScript e Three.js (WebGL)  
+- **Ranking online** (nome ou @ do Instagram), pista que sempre tem saída, continuar com moedas, poderes (ímã, jatinho, tênis mola, Picanha 2x), loja com 5 visuais do Lula e PWA offline — JavaScript, Three.js e PHP + SQLite  
 
 [![Lula nos Trilhos — jogo de corrida infinita 3D grátis no navegador, desenvolvido por Alex Junior (alequizao)](img/lula.jpg)](https://alequizao.com/lula/)
+
+---
+
+### 🇧🇷 Flávio nos Trilhos — paródia em jogo de corrida infinita 3D  
+https://alequizao.com/bolsonaro/ · [código](https://github.com/alequizao/flavio-nos-trilhos)  
+- Paródia bem-humorada do endless runner: o Flávio de terno e gravata listrada corre pelos trilhos e foge do segurança  
+- **Ranking online** (nome ou @ do Instagram), pista que sempre tem saída, continuar com moedas, loja com 5 visuais e PWA offline — JavaScript, Three.js e PHP + SQLite  
+
+[![Flávio nos Trilhos — jogo de corrida infinita 3D grátis no navegador, desenvolvido por Alex Junior (alequizao)](img/flavio.jpg)](https://alequizao.com/bolsonaro/)
 
 ---
 
@@ -436,7 +445,8 @@ modelagem do banco, backend, interface e publicação em produção.
 | [Publish Drive](https://github.com/alequizao/publish-drive) | Nuvem de arquivos privada self-hosted, sem banco de dados: upload, preview, compartilhamento por link e 2FA | PHP puro · PWA |
 | [Bio Links](https://github.com/alequizao/bio-links) | Página de links personalizável no estilo Linktree, com painel próprio | PHP · MySQL |
 | [Colinha · Alequizão](https://github.com/alequizao/colinha-alequizao) | Colinha eleitoral 2026: candidatos do TSE, perfil com bens e histórico, simulador de urna, impressão com fotos e PWA offline | PHP · MySQL · JavaScript · PWA |
-| [Lula nos Trilhos](https://github.com/alequizao/lula-nos-trilhos) | Paródia em corrida infinita 3D no navegador com o Lula: trens, poderes, loja, missões, PWA offline | JavaScript · Three.js · WebGL · PWA |
+| [Lula nos Trilhos](https://github.com/alequizao/lula-nos-trilhos) | Paródia em corrida infinita 3D no navegador com o Lula: ranking online, poderes, loja, missões, PWA offline | JavaScript · Three.js · PHP · SQLite · PWA |
+| [Flávio nos Trilhos](https://github.com/alequizao/flavio-nos-trilhos) | Paródia em corrida infinita 3D no navegador com o Flávio: ranking online, poderes, loja, missões, PWA offline | JavaScript · Three.js · PHP · SQLite · PWA |
 | [Surf nos Trilhos](https://github.com/alequizao/surf-nos-trilhos) | Corrida infinita 3D estilo Subway Surfers no navegador: trens, poderes, loja, missões, sombras e reflexos realistas, PWA offline | JavaScript · Three.js · WebGL · PWA |
 | [Ludo Online](https://github.com/alequizao/ludo-alequizao) | Ludo estilo Ludo Star: robôs, salas online com convite por WhatsApp, reconexão automática, ranking e PWA em tela cheia | JavaScript · PHP 8.3 · MySQL · PWA |
 | [Cobrinha](https://github.com/alequizao/cobrinha) | Jogo da cobrinha multiplayer online, com arena em tempo real e ranking | PHP · Canvas · Node.js/WebSocket |
