@@ -61,6 +61,15 @@ https://alequizao.com/colinha/ · [código](https://github.com/alequizao/colinha
 
 ---
 
+### 🚆 Nos Trilhos — Alex, Lula e Flávio numa corrida infinita 3D  
+https://alequizao.com/trilhos/ · [código](https://github.com/alequizao/nos-trilhos)  
+- Os três jogos da série num só: escolha a **Turma do Alex**, o **Lula** ou o **Flávio** logo ao abrir e corra pelos trilhos fugindo do segurança  
+- **Duelo Lula × Flávio**, recompensa diária, compartilhar placar, **clima (sol, nublado e chuva)**, túnel, ponte, ciclo dia/noite, ranking online e PWA offline — JavaScript, Three.js e PHP + SQLite  
+
+[![Nos Trilhos — jogo de corrida infinita 3D grátis no navegador com Alex, Lula e Flávio, desenvolvido por Alex Junior (alequizao)](img/nos-trilhos.jpg)](https://alequizao.com/trilhos/)
+
+---
+
 ### 🇧🇷 Lula nos Trilhos — paródia em jogo de corrida infinita 3D  
 https://alequizao.com/lula/ · [código](https://github.com/alequizao/lula-nos-trilhos)  
 - Paródia bem-humorada do endless runner: o Lula de terno, gravata vinho e faixa presidencial corre pelos trilhos e foge do segurança  
@@ -445,6 +454,7 @@ modelagem do banco, backend, interface e publicação em produção.
 | [Publish Drive](https://github.com/alequizao/publish-drive) | Nuvem de arquivos privada self-hosted, sem banco de dados: upload, preview, compartilhamento por link e 2FA | PHP puro · PWA |
 | [Bio Links](https://github.com/alequizao/bio-links) | Página de links personalizável no estilo Linktree, com painel próprio | PHP · MySQL |
 | [Colinha · Alequizão](https://github.com/alequizao/colinha-alequizao) | Colinha eleitoral 2026: candidatos do TSE, perfil com bens e histórico, simulador de urna, impressão com fotos e PWA offline | PHP · MySQL · JavaScript · PWA |
+| [Nos Trilhos](https://github.com/alequizao/nos-trilhos) | Alex, Lula e Flávio numa corrida infinita 3D: duelo entre times, recompensa diária, clima, túnel, ponte, ranking online, PWA offline | JavaScript · Three.js · PHP · SQLite · PWA |
 | [Lula nos Trilhos](https://github.com/alequizao/lula-nos-trilhos) | Paródia em corrida infinita 3D no navegador com o Lula: ranking online, poderes, loja, missões, PWA offline | JavaScript · Three.js · PHP · SQLite · PWA |
 | [Flávio nos Trilhos](https://github.com/alequizao/flavio-nos-trilhos) | Paródia em corrida infinita 3D no navegador com o Flávio: ranking online, poderes, loja, missões, PWA offline | JavaScript · Three.js · PHP · SQLite · PWA |
 | [Surf nos Trilhos](https://github.com/alequizao/surf-nos-trilhos) | Corrida infinita 3D estilo Subway Surfers no navegador: trens, poderes, loja, missões, sombras e reflexos realistas, PWA offline | JavaScript · Three.js · WebGL · PWA |
