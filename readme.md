@@ -61,6 +61,16 @@ https://alequizao.com/colinha/ · [código](https://github.com/alequizao/colinha
 
 ---
 
+### 🎯 Caçador — cuidado com quem vem por trás!  
+https://alequizao.com/cacador/ · [código](https://github.com/alequizao/cacador)  
+- Recriação para web do clássico jogo de caçada em Flash dos anos 2000, **com as mesmas regras medidas no original** e arte, sons e código 100% novos  
+- Visão de cima: ande pela mata com a espingarda de rolha e acerte os **peladões de cueca de bolinha** antes que eles te alcancem (senão… cuecão!). Fases geradas ao acaso, munição escassa e bônus por limpar a fase  
+- Computador (teclado) e celular (joystick e botões), ranking online da semana, som sintetizado e PWA offline — JavaScript, Canvas 2D, WebAudio e PHP + SQLite  
+
+[![Caçador — jogo de caçada visto de cima no navegador, recriação do clássico Flash, desenvolvido por Alex Junior (alequizao)](img/cacador.jpg)](https://alequizao.com/cacador/)
+
+---
+
 ### 🚆 Nos Trilhos — Alex, Lula e Flávio numa corrida infinita 3D  
 https://alequizao.com/trilhos/ · [código](https://github.com/alequizao/nos-trilhos)  
 - Os três jogos da série num só: escolha a **Turma do Alex**, o **Lula** ou o **Flávio** logo ao abrir e corra pelos trilhos fugindo do segurança  
@@ -454,6 +464,7 @@ modelagem do banco, backend, interface e publicação em produção.
 | [Publish Drive](https://github.com/alequizao/publish-drive) | Nuvem de arquivos privada self-hosted, sem banco de dados: upload, preview, compartilhamento por link e 2FA | PHP puro · PWA |
 | [Bio Links](https://github.com/alequizao/bio-links) | Página de links personalizável no estilo Linktree, com painel próprio | PHP · MySQL |
 | [Colinha · Alequizão](https://github.com/alequizao/colinha-alequizao) | Colinha eleitoral 2026: candidatos do TSE, perfil com bens e histórico, simulador de urna, impressão com fotos e PWA offline | PHP · MySQL · JavaScript · PWA |
+| [Caçador](https://github.com/alequizao/cacador) | Jogo de caçada visto de cima (recriação do clássico Flash): fases aleatórias, munição escassa, celular e PC, ranking online, PWA offline | JavaScript · Canvas 2D · WebAudio · PHP · SQLite · PWA |
 | [Nos Trilhos](https://github.com/alequizao/nos-trilhos) | Alex, Lula e Flávio numa corrida infinita 3D: duelo entre times, recompensa diária, clima, túnel, ponte, ranking online, PWA offline | JavaScript · Three.js · PHP · SQLite · PWA |
 | [Lula nos Trilhos](https://github.com/alequizao/lula-nos-trilhos) | Paródia em corrida infinita 3D no navegador com o Lula: ranking online, poderes, loja, missões, PWA offline | JavaScript · Three.js · PHP · SQLite · PWA |
 | [Flávio nos Trilhos](https://github.com/alequizao/flavio-nos-trilhos) | Paródia em corrida infinita 3D no navegador com o Flávio: ranking online, poderes, loja, missões, PWA offline | JavaScript · Three.js · PHP · SQLite · PWA |
