@@ -20,6 +20,7 @@
 🚀 Criador do projeto social “Te Vi no Buzão”  
 🌐 Fundador de plataformas web funcionais em produção  
 💬 Criador do **ALEQUIZÃO MULT360**, plataforma open source de atendimento WhatsApp multiusuário  
+📲 Criador do **ZapZap**, painel de WhatsApp com filas, automações, chatbot e relatórios, feito para o celular  
 
 ---
 
@@ -40,6 +41,16 @@ Além disso, sou criador do projeto **“Te Vi no Buzão” (@tevinobuzao)**, qu
 ## 🌐 Plataforma e Projetos
 
 🔗 https://alequizao.com  
+
+### 📲 ZapZap — Painel de WhatsApp do Alequizão  
+https://github.com/alequizao/zapzap · [manual](https://github.com/alequizao/zapzap/blob/main/docs/MANUAL.md) · demo em produção: https://alequizao.com/zapzap/  
+- **Várias conexões de WhatsApp** (Evolution API v2) num painel feito para o celular: conversas completas, "digitando…", respostas rápidas, etiquetas, notas e **"me lembre de responder"**  
+- **Atendimento em filas** com assumir, transferir e encerrar, **cores de SLA** pelo tempo sem resposta, **automações**, **chatbot** de menus (tudo nasce em modo TESTE), **campanhas** com limites anti-bloqueio e **relatórios**  
+- **Usuários com permissões** por recurso e por conexão, assinatura obrigatória com o nome de quem envia, auditoria, API pública e webhooks, **notificações com som, vibração e push** e manual embutido — PHP 8.3, MySQL, JavaScript puro e PWA (código aberto, MIT)  
+
+[![ZapZap — painel de WhatsApp com atendimento em filas, automações, chatbot, campanhas e relatórios, feito para o celular, desenvolvido por Alex Junior (alequizao)](img/zapzap.png)](https://github.com/alequizao/zapzap)
+
+---
 
 ### 🛰️ Traccar Alequizão — Traccar 6.16.0 personalizado, em produção no Monitoramento.top  
 https://monitoramento.top · [código](https://github.com/alequizao/traccar-alequizao)  
@@ -441,6 +452,7 @@ modelagem do banco, backend, interface e publicação em produção.
 | Projeto | O que é | Stack |
 |---|---|---|
 | [ALEQUIZÃO MULT360](https://github.com/alequizao/alequizao-mult360) | Plataforma de atendimento WhatsApp multiusuário (CRM): filas, chatbot, respostas automáticas sem fila, campanhas, Kanban, chat interno, IA e API — código aberto | Node.js · TypeScript · React · PostgreSQL · Redis · Baileys · PWA |
+| [ZapZap](https://github.com/alequizao/zapzap) | Painel de WhatsApp para o celular: várias conexões, atendimento em filas com SLA, automações, chatbot, campanhas, relatórios, usuários e permissões (PHP, MySQL, PWA) |
 | [Lembretes](https://github.com/alequizao/lembretes-alequizao) | Lembretes automáticos por WhatsApp, Direct e e-mail: repetição, anexos, variáveis e **alerta automático de chuva** com cartão da previsão gerado na hora | PHP · MySQL · Evolution API · Meta Graph API · SMTP · GD · PWA |
 | [Agenda Social](https://github.com/alequizao/agenda-social-instagram) | Publicação automática no Instagram (feed, carrossel, story, reel) com curadoria de notícias por RSS, arte por IA e Direct automatizado | PHP · MySQL · Meta Graph API · OpenAI |
 | [Walkie Talkie](https://github.com/alequizao/walkie-talkie) | Comunicação por voz em tempo real no navegador (push-to-talk), com canais, Web Push e app Android | PHP · MySQL · WebRTC · VAPID |
